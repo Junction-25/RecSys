@@ -1,0 +1,50 @@
+# Core Django and API
+Django==4.2.16
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.0
+django-cors-headers==4.3.1
+django-filter==25.1
+drf-spectacular==0.28.0
+
+# Database
+psycopg[binary]==3.2.4
+redis==5.0.1
+chromadb
+faiss-cpu
+
+# Async and Background Tasks
+celery==5.3.6
+aioredis==2.0.1
+
+# AI and ML
+google-generativeai==0.8.3
+scikit-learn==1.6.0
+numpy>=1.26.0,<2.2
+pandas==2.2.3
+torch>=2.3.0
+torchvision
+torchaudio
+transformers==4.47.1
+sentence-transformers==3.3.1
+numba==0.61.0
+scipy>=1.10.0
+tqdm>=4.65.0
+h5py>=3.7.0
+
+# Monitoring
+prometheus-client==0.19.0
+
+# Environment and Configuration
+python-decouple==3.8
+
+# System Monitoring
+psutil>=5.9.0
+
+# Compression
+lz4>=4.3.2
+zstandard>=0.22.0
+python-memcached>=1.59
+
+# Utilities
+requests==2.31.0
+httpx==0.26.0
