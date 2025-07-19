@@ -1,14 +1,8 @@
 # 🏡 Smart Real Estate AI Recommendation System
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
-[![Django](https://img.shields.io/badge/Django-5.0-green.svg)](https://djangoproject.com)
-[![AI](https://img.shields.io/badge/AI-Gemini%20API-orange.svg)]()
-[![Performance](https://img.shields.io/badge/Performance-40%25%20Faster-brightgreen.svg)]()
-[![Coverage](https://img.shields.io/badge/Coverage-85%25-brightgreen.svg)]()
+#### Refer to [Testing Guide](API_TESTING_GUIDE.md) for steps on how to test this system.
 
 An intelligent real estate recommendation system built with Django and microservices architecture, leveraging AI for advanced property-contact matching and business intelligence.
-
-> **🎓 Academic Research Project**: This system represents a comprehensive solution combining advanced algorithms, AI integration, and modern software architecture patterns. See our [Academic Paper](ACADEMIC_PAPER.md) for detailed research analysis.
 
 ## 🚀 Features
 
@@ -240,12 +234,6 @@ See [MIGRATION_GUIDE.md](MIGRATION_GUIDE.md) for detailed migration information.
 - **Type Safety**: Serializer-based validation
 - **Testing Framework**: Comprehensive test suite
 - **Admin Interface**: Django admin for data management
-
-## 📖 Documentation
-
-- **Setup Guide**: [SETUP.md](SETUP.md)
-- **Migration Guide**: [MIGRATION_GUIDE.md](MIGRATION_GUIDE.md)
-- **API Reference**: Available at `/api/docs/`
 
 ## 🔮 Future Enhancements
 
